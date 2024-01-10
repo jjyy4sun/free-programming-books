@@ -37,6 +37,7 @@
     * [Flask](#flask)
     * [PyTorch](#pytorch)
 * [Redis](#redis)
+* [Rust](#rust)
 * [SASS / SCSS](#sass--scss)
 * [Solidity](#solidity)
 * [Terraform](#terraform)
@@ -85,6 +86,7 @@
 ### <a id="csharp"></a>C\#
 
 * [Belajar Pemrograman C#](https://www.youtube.com/playlist?list=PLuGFxya63u253zhOzhxanaSBNJ_UiIhUb) - Galih Pratama
+* [Tutorial Lengkap - Belajar Coding C# Programming untuk Pemula](https://www.youtube.com/playlist?list=PLa6D44cKrtoN9guvynhwiCIdUJ0CJkAMB) - Bimbingan Belajar Coding  
 
 
 ### Construct
@@ -138,6 +140,7 @@
 
 ### Git
 
+* [ALL Basic Pemul](https://www.youtube.com/playlist?list=PLc6SEcJkQ6DxurcQDUkY_t8cIgXya5Blj) - Dea Afrizal
 * [Apa itu GitHub](https://www.youtube.com/playlist?list=PLCZlgfAG0GXCtwnagWsUzZum1CFZYqrB5) - Hilman Ramadhan, Sekolah Koding
 * [Belajar Git](https://www.youtube.com/playlist?list=PLuGFxya63u24bmP-ILRaiGeMwZh3PGxW4) - Galih Pratama
 * [Belajar GIT (Source Code Management)](https://www.youtube.com/playlist?list=PL8bBYpHH3RI6BlCzFTMQvt7sGSycUj7S-) - Eka Putra, UpKoding
@@ -184,6 +187,7 @@
 * [HTML5 Canvas](https://www.youtube.com/playlist?list=PL0-7Xi0GB3teW5TsBQmD2MzLU5ryjXkVE) - Idr Corner
 * [HTML5 Dasar](https://www.buildwithangga.com/kelas/html5-dasar) - BuildWithAngga
 * [HTML5 Pemula Dasar](https://www.petanikode.com/html-dasar/) - petanikode
+* [Mulai Belajar Website dengan HTML](https://www.udemy.com/course/mulai-belajar-website-dengan-html/) - Arkademy Tech Academy (Udemy)
 
 
 ### Java
@@ -221,6 +225,7 @@
 * [JavaScript Module](https://devsaurus.com/javascript-module) - Devsaurus
 * [JavaScript Tutorial Bahasa Indonesia](https://www.youtube.com/playlist?list=PL-CtdCApEFH8SS0Gsj9_a0cC0jypFEoSg) - Eko Kurniawan Khannedy, Programmer Zaman Now
 * [Main Main JavaScript](https://www.youtube.com/playlist?list=PLCZlgfAG0GXCyd70hT8jYl24bLuPpH9iR) - Sekolah Koding
+* [Nest JS Tutorial Indonesia](https://youtube.com/playlist?list=PL9At9z2rvOC8phs2qV4Fysy8cejzg6pU0) - Ekky Ridyanto (Balademy)
 * [Tutorial AngularJS Indonesia](https://www.youtube.com/playlist?list=PLohWNsc-n1L-3ffIaGRAjbTQm7bh9F9FG) - Windu Purnomo
 * [Tutorial JavaScript Pemrograman Berorientasi Objek](https://www.youtube.com/watch?v=SDROba_M42g) - Programmer Zaman Now
 * [Tutorial NextJS Bahasa Indonesia](https://www.youtube.com/playlist?list=PLU4DS8KR-LJ3-zouYHHknPq1G5VTB8PRf) - Prawito Hudoro
@@ -240,6 +245,7 @@
 #### React
 
 * [Belajar React JS Dari Awal Buat Yang Nggak Jago JavaScript](https://www.youtube.com/watch?v=JS5w4rUbjQE) - array id
+* [Belajar React untuk PEMULA](https://www.youtube.com/playlist?list=PLFIM0718LjIUu3X2zYNqomEWs3sYd-fV1) - Sandhika Galih
 * [Belajar ReactJS Bahasa Indonesia](https://www.youtube.com/playlist?list=PLCZlgfAG0GXALZIcEe2t3XVuQ50JYbsbA) - Sekolah Koding
 * [Belajar Testing Pada React Dengan Jest dan RTL](https://www.youtube.com/playlist?list=PLU4DS8KR-LJ1e5H4bX6rCTwBvSl2cll6a) - Prawito Hudoro
 * [Mari Kita Belajar Basic React JS](https://www.youtube.com/playlist?list=PLRKMmwY3-5MwXT8zMPbezhDnTM3cTA5cZ) - Irsyad A. Panjaitan, Parsinta
@@ -308,6 +314,7 @@
 ### MongoDB
 
 * [Belajar MongoDB](https://www.youtube.com/playlist?list=PL-CtdCApEFH-eFFdPeS5e16o3THdmvxvz) - Eko Kurniawan Khannedy, Programmer Zaman Now
+* [MongoDB Tutorial Indonesia](https://www.youtube.com/playlist?list=PLhzwHCJWMbnu830iJ8xLcXgbnklmXpSK5) - Pojok Code
 
 
 ### MySQL
@@ -353,6 +360,7 @@
 * [Tutorial Laravel 5.7 Dasar bahasa Indonesia](https://www.malasngoding.com/category/laravel/) - Diki Alfarabi Hadi (Malas Ngoding)
 * [Tutorial Laravel 7.x Dasar](https://www.youtube.com/playlist?list=PLCZlgfAG0GXBucXejxeeqCe_NWZS-67q_) - Sekolah Koding
 * [Tutorial Laravel Bahasa Indonesia](https://id-laravel.com) - ID Laravel
+* [Tutorial Restful API Laravel 10](https://santrikoding.com/tutorial-set/tutorial-restful-api-laravel-10) - Santrikoding
 
 
 ### Python
@@ -389,12 +397,19 @@
 
 ### PyTorch
 
+* [Course 5 \| Pengantar Deep Learning \| Tutorial Bahasa Indonesia](https://www.youtube.com/playlist?list=PLGn1wRmlR3Mtz5i4k4qyd5qQjOtm9JSC6) - JCOp Untuk Indonesia
 * [PyTorch untuk Pemula](https://www.youtube.com/playlist?list=PLl-Zj2iuqlwvMCvaX_4POywGiw4TFuHp1) - NgodingPython
 
 
 ### Redis
 
 * [Belajar Redis](https://www.youtube.com/playlist?list=PL-CtdCApEFH-7hBhz1Q-4rKIQntJoBNX3) - Eko Kurniawan Khannedy, Programmer Zaman Now
+
+
+### Rust
+
+* [Belajar bahasa pemrograman Rust!](https://www.youtube.com/watch?v=1gRIAVwDlb4&pp=ygUMYmVsYWphciBydXN0) - Ngooding
+* [Belajar Rust](https://www.youtube.com/playlist?list=PLIfsrcorUur10nUSHVq9Mb4yWu87_5lZn) - Dev Activity
 
 
 ### SASS / SCSS
@@ -413,12 +428,13 @@
 ### Terraform
 
 * [Belajar Terraform untuk Pemula](https://www.youtube.com/playlist?list=PL4SGTPmSY0qngs44Ssc0RHO9h4fmZ9JUb) - Giri Kuncoro
+* [DevOps 101](https://www.youtube.com/playlist?list=PLvhu7dkzS_I3T1WlDMJjS85L4In-WYLN_) - Iqbal Syamil
 
 
 ### TypeScript
 
 * [Belajar Typescript Dasar Bahasa Indonesia](https://www.youtube.com/playlist?list=PLiuHSY2x882Z4NSJGNq0eB9Fz6tIx-CgO) - Imam Farisi
 * [Belajar Typescript OOP Bahasa Indonesia](https://www.youtube.com/playlist?list=PLiuHSY2x882a-sLbdqZTtraO3cl0Clwg0) - Imam Farisi
-* [Belajar TypeScript Untuk Pemula](https://www.youtube.com/playlist?list=PL-CtdCApEFH_LJt-fhYfMMgqxirSu6EKo) - Eko Kurniawan Khannedy, Programmer Zaman Now
 * [OOP TypeScript](https://www.youtube.com/playlist?list=PLnQvfeVegcJZRieebeIp0xj1NeC5L633Y) - Nusendra Hanggarawan
+* [Tutorial TypeScript Dasar](https://www.youtube.com/watch?v=C_C64faSO4c) - Eko Kurniawan Khannedy, Programmer Zaman Now
 * [TypeScript Dasar](https://www.youtube.com/playlist?list=PLnQvfeVegcJbjCnML6FdusK-rl-oDRMXJ) - Nusendra Hanggarawan
